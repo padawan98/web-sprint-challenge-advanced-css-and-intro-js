@@ -22,10 +22,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. How would you describe acessibility on the web to someone new to programming?
+1. How would you describe acessibility on the web to someone new to programming? Accessibility is a feature on websites that allow everyone to access the web. Normally, without accessibility features, people with visual impairment could have a hard time reading the font on the website, but accessibility features allows them to.
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+Increase your font (100% on font size on global scope), put a text to speech function, add a colorblind option 
 3. How would you explain the concept of a variable to someone new to programming?
+Variable is a placeholder for a value
 4. What is the purpose of using functions in code?
+Functions can hold certain instructions. They can be invoked multiple times
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -47,8 +50,8 @@ NOTE: Tests will run for the JavaScript portion of this challenge only
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
-* [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
+* [x] Add a viewport meta tag to the head of your index.html page.
+* [x] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
 
